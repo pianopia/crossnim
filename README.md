@@ -10,6 +10,8 @@ Xcodeすら使わない
 # 記述式
 # 下のレイヤーから記載する
 # layout.nimui
+
+```
 Container:
     key: "DealContainer"
     width:100%
@@ -55,6 +57,9 @@ ListCell:
 
         Text:
             key: "DealPrice"
+
+```
+
 
 # データをレイアウトにマッピング
 
