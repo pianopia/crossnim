@@ -66,6 +66,7 @@ ListCell:
 
 # main.nim
 
+```
 # API
 proc fetchDealList(): Seq[Deal]
 
@@ -102,4 +103,4 @@ key.DealContainer.onRunning =
 
 key DealContainer.onStop =
     discard
-
+```
